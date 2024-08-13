@@ -27,8 +27,8 @@ jobs:
 
       - name: Configure Git user
         run: |
-          git config --local user.email "3139541502@qq.com"
-          git config --local user.name "Huterox"
+          git config --local user.email "275668395@qq.com"
+          git config --local user.name "bigLuo88"
 
       - name: Set Git remote URL
         env:
